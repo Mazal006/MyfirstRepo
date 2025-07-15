@@ -1,1 +1,1 @@
-During this course, I've learned how to use Git for version control and collaborate on projects using GitHub. It’s been valuable to understand branching, merging, and resolving conflicts.
+What I have learned from this course , During this course, I've learned how to use Git for version control and collaborate on projects using GitHub. It’s been valuable to understand branching, merging, and resolving conflicts.
